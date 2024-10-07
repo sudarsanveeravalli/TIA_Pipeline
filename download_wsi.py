@@ -2,7 +2,7 @@ from tiatoolbox import data
 import os
 
 # Directory to save the downloaded WSI
-save_dir = '/home/ubuntu/bala/bala/ImpartLabs/tmp/'
+save_dir = '/home/ubuntu/sudarsan/ImpartLabs/tmp/'
 os.makedirs(save_dir, exist_ok=True)
 
 # URL to download the sample WSI
